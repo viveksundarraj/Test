@@ -3,8 +3,6 @@ public class test {
 
 		System.out.println("hi i am  vivek");
 		System.out.println("hi i am  yazhan");
-		
-
 	}
 
 }
